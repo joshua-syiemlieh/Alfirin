@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bot_back_color">#203757</color>
+    <color name="back_color">#13253D</color>
+    <color name="user_back_color">#6965FF</color>
+    <color name="fab_color">#6B6AFF</color>
+
+    <color name="colorPrimary">#1545D8</color>
+    <color name="blue">#68C5F7</color>
+    <color name="orange">#F47733</color>
+    <color name="purple">#9B42EA</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <color name="colorPrimary2">#1E25A5</color>
+    <color name="colorPrimaryDark">#191F88</color>
+    <color name="colorTransparentWhite">#AFAFAF</color>
+
+    <color name="colorPrimary1">#FFFFFF</color>
+    <color name="colorPrimaryDark1">#000</color>
+    <color name="colorAccent">#11CFC5</color>
+    <color name="themeColor">#11CFC5</color>
+
+    <color name="darkTextColor">#020000</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#11CFC5</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#11CFC5</color>
+
+</resources>
